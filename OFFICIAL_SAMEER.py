@@ -1791,7 +1791,7 @@ async def restart(e):
 
 async def help(e):
     if e.sender_id in SMEX_USERS:
-       text = "𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀\n\n𝙐𝙩𝙞𝙡𝙨 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.ping\n.restart\n\n𝙐𝙨𝙚𝙧𝙗𝙤𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.bio\n.join\n.pjoin\n.leave\n\n𝙎𝙥𝙖𝙢 𝘾𝙤𝙢𝙢𝙖𝙣𝙙:\n.spam\n.delayspam\n.bigspam\n.raid\n.replyraid\n.dreplyraid\n\n\nFor more help regarding usage of plugins type plugins name"
+       text = "𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n\n𝗦𝗧𝗔𝗥𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦:\n.ping\n.restart\n\n𝗝𝗢𝗜𝗡 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦:\n\n.join\n.pjoin\n.leave\n\n𝗦𝗣𝗔𝗠 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦:\n.spam\n.delaycurse\n.bigspam\n\n.replycurse\n.dreplycurse\n\n\n𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗣𝗟𝗨𝗚𝗜𝗡 𝗧𝗘𝗟𝗟 𝗨𝗦 𝗜𝗡 𝗖𝗨𝗥𝗦𝗘 𝗦𝗨𝗣𝗣𝗢𝗥𝗧"
        await e.reply(text, parse_mode=None, link_preview=None )
 
         
@@ -1800,8 +1800,8 @@ async def help(e):
         
 text = """
 
-💥💥CONGRATULATIONS UR SAVAGE SPAM BOT IS READY💥💥💥
-💥💥💥💥💥💥 BY OP SAMEER 💥💥💥💥💥💥"""
+💥💥CONGRATULATIONS UR SPAMBOT READY💥💥💥
+💥💥💥💥💥💥 BY X💥💥💥💥💥💥"""
 
 print(text)
 print("")
