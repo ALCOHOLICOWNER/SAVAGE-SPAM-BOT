@@ -1012,99 +1012,99 @@ async def start(event):
                               )
      await wdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await hdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await sdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await adk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await bdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await cdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await edk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await hdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await ddk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await vkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await kkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await lkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await mkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await sid.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await shy.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await aan.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await ake.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await eel.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await khu.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await shi.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await yaa.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await dav.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await raj.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )
      await put.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
+                                  caption="𒈒𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓\n𝐕𝐄𝐑𝐒𝐈𝐎𝐍 2.0\n  𒅒𝐒𝐓𝐀𝐓𝐔𝐒 - 𝗔𝗟𝗜𝗩𝗘\n"                                
                               )        
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
