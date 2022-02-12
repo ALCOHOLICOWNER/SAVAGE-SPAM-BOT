@@ -1283,36 +1283,36 @@ async def spam(e):
             for _ in range(counter):
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, message)
-                    await asyncio.sleep(0.3)
+                    await asyncio.sleep(0.5)
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
 
 
-@idk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@ydk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@wdk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@hdk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@sdk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@adk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@bdk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@cdk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@edk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@ddk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@vkk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@kkk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@lkk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@mkk.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@sid.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@shy.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@aan.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@ake.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@eel.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@khu.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@shi.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@yaa.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@dav.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@raj.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
-@put.on(events.NewMessage(incoming=True, pattern=r"\.raid"))
+@idk.on(events.NewMessage(incoming=True, pattern=r"\.rainsnsd"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\.ransnnsid"))
+@wdk.on(events.NewMessage(incoming=True, pattern=r"\.rainnsnsd"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\.rannssid"))
+@sdk.on(events.NewMessage(incoming=True, pattern=r"\.rainnssd"))
+@adk.on(events.NewMessage(incoming=True, pattern=r"\.rainnsnsd"))
+@bdk.on(events.NewMessage(incoming=True, pattern=r"\.ransnsid"))
+@cdk.on(events.NewMessage(incoming=True, pattern=r"\.rainnsdnd"))
+@edk.on(events.NewMessage(incoming=True, pattern=r"\.rainnnsd"))
+@ddk.on(events.NewMessage(incoming=True, pattern=r"\.rainnssd"))
+@vkk.on(events.NewMessage(incoming=True, pattern=r"\.raimsnsd"))
+@kkk.on(events.NewMessage(incoming=True, pattern=r"\.rahdhdhsid"))
+@lkk.on(events.NewMessage(incoming=True, pattern=r"\.rannssid"))
+@mkk.on(events.NewMessage(incoming=True, pattern=r"\.raissd"))
+@sid.on(events.NewMessage(incoming=True, pattern=r"\.raimnssd"))
+@shy.on(events.NewMessage(incoming=True, pattern=r"\.rainsnnsd"))
+@aan.on(events.NewMessage(incoming=True, pattern=r"\.raimsmsd"))
+@ake.on(events.NewMessage(incoming=True, pattern=r"\.raimssd"))
+@eel.on(events.NewMessage(incoming=True, pattern=r"\.raimmssd"))
+@khu.on(events.NewMessage(incoming=True, pattern=r"\.raidnsnms"))
+@shi.on(events.NewMessage(incoming=True, pattern=r"\.raimsmmsd"))
+@yaa.on(events.NewMessage(incoming=True, pattern=r"\.ramsmmssid"))
+@dav.on(events.NewMessage(incoming=True, pattern=r"\.rajkkskssid"))
+@raj.on(events.NewMessage(incoming=True, pattern=r"\.jssjsss"))
+@put.on(events.NewMessage(incoming=True, pattern=r"\.curse"))
 
 async def spam(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = 𝗥𝗮𝗶𝗱\n\nCommand:\n\n.raid <count> <Username of User>\n\n.raid <count> <reply to a User>\n\nCount must be a integer."
@@ -1334,7 +1334,7 @@ async def spam(e):
                 caption = f"{username} {reply}"
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, caption)
-                    await asyncio.sleep(0.3)
+                    await asyncio.sleep(0.0)
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
             b = await e.client.get_entity(a.sender_id)
@@ -1347,7 +1347,7 @@ async def spam(e):
                 caption = f"{username} {reply}"
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, caption)
-                    await asyncio.sleep(0.3)
+                    await asyncio.sleep(0.0)
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
 
@@ -1397,31 +1397,31 @@ async def _(event):
         )           
             
             
-@idk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@ydk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@wdk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@hdk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@sdk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@adk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@bdk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@cdk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@edk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@ddk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@vkk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@kkk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@lkk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@mkk.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@sid.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@shy.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@aan.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@ake.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@eel.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@khu.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@shi.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@yaa.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@dav.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@raj.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
-@put.on(events.NewMessage(incoming=True, pattern=r"\.replyraid"))
+@idk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@wdk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@sdk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@adk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@bdk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@cdk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@edk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@ddk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@vkk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@kkk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@lkk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@mkk.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@sid.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@shy.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@aan.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@ake.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@eel.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@khu.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@shi.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@yaa.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@dav.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@raj.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
+@put.on(events.NewMessage(incoming=True, pattern=r"\.replycurse"))
 
 
 async def _(e):
@@ -1440,7 +1440,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "Activated Reply Raid"
+            text = "Activated Curse"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1456,31 +1456,31 @@ async def _(e):
             await e.reply(usage, parse_mode=None, link_preview=None )
 
             
-@idk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@ydk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@wdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@hdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@sdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@adk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@bdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@cdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@edk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@ddk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@vkk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@kkk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@lkk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@mkk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@sid.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@shy.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@aan.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@ake.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@eel.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@khu.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@shi.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@yaa.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@dav.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@raj.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
-@put.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
+@idk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@wdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@sdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@adk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@bdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@cdk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@edk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@ddk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@vkk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@kkk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@lkk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@mkk.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@sid.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@shy.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@aan.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@ake.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@eel.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@khu.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@shi.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@yaa.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@dav.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@raj.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
+@put.on(events.NewMessage(incoming=True, pattern=r"\.dreplycurse"))
 
 async def _(e):
     global que
@@ -1510,7 +1510,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "De-Activated Reply Raid"
+            text = "De-Activated Curse"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1546,11 +1546,11 @@ async def _(e):
 async def ping(e):
     if e.sender_id in SMEX_USERS:
         start = datetime.now()
-        text = "Pong!"
+        text = "PONG!"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"😁 🇵 🇴 🇳 🇬 !\n`{ms}` 𝗺𝘀")
+        await event.edit(f"✦𝐒𝐏𝐄𝐄𝐃!\n`{ms}` 𝗺𝘀")
 
 
     
